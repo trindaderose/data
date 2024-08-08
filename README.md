@@ -79,17 +79,17 @@
 
 Fontes:
 
-[Dear Data](https://www.dear-data.com/theproject) _inspo_
-[Data Gov](https://data.gov/)
-[Pudding](https://pudding.cool/)
-[Statista](https://www.statista.com/)
-[Flowing Data](https://flowingdata.com/)
-[Scielo](https://scielo.figshare.com/)
-[Data Society](https://datasociety.net/)
-[Harvard](https://dataverse.harvard.edu/)
-[Data To Viz](https://www.data-to-viz.com/)
-[Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
-[University of Michigan](https://guides.lib.umich.edu/)
-[Data Viz Catalogue](https://datavizcatalogue.com/index.html)
-[Data Viz Project](https://datavizproject.com/)
-[Portal Brasileiro de Dados Abertos](https://dados.gov.br/home)
+- [Dear Data](https://www.dear-data.com/theproject) _inspo_
+- [Data Gov](https://data.gov/)
+- [Pudding](https://pudding.cool/)
+- [Statista](https://www.statista.com/)
+- [Flowing Data](https://flowingdata.com/)
+- [Scielo](https://scielo.figshare.com/)
+- [Data Society](https://datasociety.net/)
+- [Harvard](https://dataverse.harvard.edu/)
+- [Data To Viz](https://www.data-to-viz.com/)
+- [Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
+- [University of Michigan](https://guides.lib.umich.edu/)
+- [Data Viz Catalogue](https://datavizcatalogue.com/index.html)
+- [Data Viz Project](https://datavizproject.com/)
+- [Portal Brasileiro de Dados Abertos](https://dados.gov.br/home)
