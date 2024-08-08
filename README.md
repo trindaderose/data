@@ -87,6 +87,7 @@ Fontes:
 - [Scielo](https://scielo.figshare.com/)
 - [Data Society](https://datasociety.net/)
 - [Harvard](https://dataverse.harvard.edu/)
+- [Kaggle](https://www.kaggle.com/)
 - [Data To Viz](https://www.data-to-viz.com/)
 - [Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
 - [University of Michigan](https://guides.lib.umich.edu/)
