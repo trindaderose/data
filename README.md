@@ -1,12 +1,12 @@
 <!-- # Data [![WinFlow](./hero.png)](./logo.png) -->
 
 # DataViz
+<!-- curadoria. -->
+<!-- > há uma possível correlação -->
 
 ![screenshot](./hero.png)
 
-> há uma possível correlação
 
-Curadoria de dados por tópicos.
 
 ## :wine_glass: :pizza: comidas & bebidas
 
@@ -47,7 +47,7 @@ Curadoria de dados por tópicos.
 | Embalagem é o Maior Motor do Uso Global de Plásticos                              | [Statista](https://www.statista.com/chart/32140/global-plastics-use-by-application/)                                         |
 | Onde o Estresse Hídrico Será Maior até 2050                                       | [Statista](https://www.statista.com/chart/26140/water-stress-projections-global/)                                            |
 
-## :cd: music
+## :cd: música
 
 | Nome                                               | `link`                                                                                   |
 | :------------------------------------------------- | :--------------------------------------------------------------------------------------- |
@@ -74,3 +74,22 @@ Curadoria de dados por tópicos.
 | Onde as Pessoas Estão Satisfeitas com Sua Saúde                       | [Statista](https://www.statista.com/chart/32140/global-plastics-use-by-application/)                                           |
 | Quão Generalizado é o Consumo de Álcool por Menores?                  | [Statista](https://www.statista.com/chart/32046/share-of-respondents-using-alcohol-in-the-past-month-in-the-us-per-age-group/) |
 | Britânicos São os Piores em Ressacas                                  | [Statista](https://www.statista.com/chart/27968/share-of-people-that-get-hangovers-regularly/)                                 |
+
+## :thought_balloon:
+
+Fontes:
+
+[Dear Data](https://www.dear-data.com/theproject) _inspo_
+[Data Gov](https://data.gov/)
+[Pudding](https://pudding.cool/)
+[Statista](https://www.statista.com/)
+[Flowing Data](https://flowingdata.com/)
+[Scielo](https://scielo.figshare.com/)
+[Data Society](https://datasociety.net/)
+[Harvard](https://dataverse.harvard.edu/)
+[Data To Viz](https://www.data-to-viz.com/)
+[Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
+[University of Michigan](https://guides.lib.umich.edu/)
+[Data Viz Catalogue](https://datavizcatalogue.com/index.html)
+[Data Viz Project](https://datavizproject.com/)
+[Portal Brasileiro de Dados Abertos](https://dados.gov.br/home)
