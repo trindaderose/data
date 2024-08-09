@@ -76,9 +76,13 @@
 
 ## :thought_balloon:
 
+Inspo:
+
+-   [Dear Data](https://www.dear-data.com/theproject)
+-   [A Evolução do Scroolbar](https://scrollbars.matoseb.com/)
+
 Fontes:
 
--   [Dear Data](https://www.dear-data.com/theproject) _inspo_
 -   [Data Gov](https://data.gov/)
 -   [Pudding](https://pudding.cool/)
 -   [Statista](https://www.statista.com/)
