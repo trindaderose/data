@@ -79,7 +79,7 @@
 Inspo:
 
 -   [Dear Data](https://www.dear-data.com/theproject)
--   [A Evolução do Scroolbar](https://scrollbars.matoseb.com/)
+-   [A Evolução do Scrollbar](https://scrollbars.matoseb.com/)
 
 Fontes:
 
