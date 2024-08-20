@@ -1,20 +1,19 @@
 <!-- # Data [![WinFlow](./hero.png)](./logo.png) -->
 
-# :wine_glass: :cheese: WineCheese Project
+# :wine_glass: :cheese: Wine & Cheese Wedding Project
 
-<!-- curadoria. -->
+a data viz project ***in development*** with @valliero
+
 <!-- > há uma possível correlação -->
 
-<!-- ![screenshot](./hero.png) -->
+![screenshot](./thumbnail.png)
 
 ## main
 
-<!-- Colons can be used to align columns. -->
-
-| `asset`    | `link`                                                                                                                      |
-| :--------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| `asset`    | `link`                                                                                                                                        |
+| :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
 | csv        | [GOOGLE_SPREADSHEETS](https://docs.google.com/spreadsheets/d/1OTsCz15OqcMYAUeocgRIJ4vI7FUmMdqmYFWqpUegPbo/edit?gid=1294421884#gid=1294421884) |
-| observable | [WINE_CHEESE_PROJECT](https://observablehq.com/d/1c5678d8c785067e)                                                          |
+| observable | [WINE_CHEESE_PROJECT](https://observablehq.com/d/1c5678d8c785067e)                                                                            |
 
 ## :thought_balloon:
 
