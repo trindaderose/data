@@ -2,7 +2,7 @@
 
 # :wine_glass: :cheese: Wine & Cheese Wedding Project
 
-a data viz project ***in development*** with @valliero
+a data viz project **_in development_** with @valliero
 
 <!-- > há uma possível correlação -->
 
@@ -14,6 +14,7 @@ a data viz project ***in development*** with @valliero
 | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
 | csv        | [GOOGLE_SPREADSHEETS](https://docs.google.com/spreadsheets/d/1OTsCz15OqcMYAUeocgRIJ4vI7FUmMdqmYFWqpUegPbo/edit?gid=1294421884#gid=1294421884) |
 | observable | [WINE_CHEESE_PROJECT](https://observablehq.com/d/1c5678d8c785067e)                                                                            |
+| looker     | [Wine & Cheese Wedding](https://lookerstudio.google.com/reporting/ff047734-c9ed-41e2-a621-7f6afabbce32)                                       |
 
 ## :thought_balloon:
 
