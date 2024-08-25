@@ -25,6 +25,7 @@ a data viz project **_in development_** with @valliero
 **Moodboard:**
 
 -   [Wine & Math - Pudding](https://pudding.cool/2021/03/wine-model/)
+-   [The Periodic Table of Wine](https://public.tableau.com/app/profile/flavio.matos/viz/ThePeriodicTableofWine/periodictableauofwineEN)
 
 **_More?_**
 
