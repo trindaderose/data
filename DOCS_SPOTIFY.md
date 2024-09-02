@@ -50,7 +50,7 @@ Cada playlist foi projetada com variáveis específicas para atender ao contexto
 | Playlist    | Variáveis Principais                        | Descrição                                                 |
 | ----------- | ------------------------------------------- | --------------------------------------------------------- |
 | Outside     | **+Valence**, **+Energy**, **Danceability** | Música vibrante e energizante para atividades ao ar livre |
-| Special     | **Energy**, **Danceability**, **Valence**   | Ocasiões especiais e intensas                             |
+| Special     | **Energy**, **Danceability**, **Valence**   | Ocasiões especiais, intimidade                            |
 | Sofisticado | **Bpm** e **Loudness**                      | Atmosfera elegante e refinada, ideal para jantares        |
 | Aconchego   | **-Valence** e **-Energy**                  | Criação de um ambiente emocionalmente reconfortante       |
 
