@@ -2,9 +2,7 @@
 
 # :wine_glass: :cheese: Wine & Cheese Wedding Project
 
-a data viz project **_in development_** with @valliero
-
-<!-- > há uma possível correlação -->
+a **data project** with [@valliero](https://github.com/valliero)
 
 ![screenshot](./thumbnail.png)
 
