@@ -47,12 +47,12 @@ Esta documentação fornece um guia detalhado para a criação de playlists no a
 
 Cada playlist foi projetada com variáveis específicas para atender ao contexto em que será utilizada. A tabela abaixo resume as variáveis-chave para cada playlist:
 
-| Playlist    | Variáveis Principais                        | Descrição                                                 |
-| ----------- | ------------------------------------------- | --------------------------------------------------------- |
-| Outside     | **+Valence**, **+Energy**, **Danceability** | Música vibrante e energizante para atividades ao ar livre |
-| Special     | **Energy**, **Danceability**, **Valence**   | Ocasiões especiais, intimidade                            |
-| Sofisticado | **Bpm** e **Loudness**                      | Atmosfera elegante e refinada, ideal para jantares        |
-| Aconchego   | **-Valence** e **-Energy**                  | Criação de um ambiente emocionalmente reconfortante       |
+| Playlist    | Variáveis Principais                        | Descrição                                                            |
+| ----------- | ------------------------------------------- | -------------------------------------------------------------------- |
+| Outside     | **+Valence**, **+Energy**, **Danceability** | Música vibrante e energizante para atividades ao ar livre            |
+| Special     | **Energy**, **Danceability**, **Valence**   | Ocasiões especiais, intimidade                                       |
+| Sofisticado | **Bpm** e **Loudness**                      | Atmosfera elegante e refinada, ideal para ambientes onde há conversa |
+| Aconchego   | **-Valence** e **-Energy**                  | Criação de um ambiente emocionalmente reconfortante                  |
 
 ### Playlists
 
