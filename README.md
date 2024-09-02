@@ -17,19 +17,13 @@ a data viz project **_in development_** with @valliero
 | python plots | [Plots](https://github.com/trindaderose/winecheese/blob/main/plots.ipynb)                                                                     | ✅         |
 | dashboard    | [Wine & Cheese Wedding](https://lookerstudio.google.com/reporting/ff047734-c9ed-41e2-a621-7f6afabbce32)                                       | ✅         |
 | notion docs  | [Docs](https://valliero.notion.site/Wine-And-Cheese-Wedding-b9658ee0ab2b4ad0804d4445f5fd41d6)                                                 | ✅         |
-<<<<<<< HEAD
 | webapp       | [vinoricco](https://vinoricco.com)                                                                                                            | ✅         |
-=======
-| python auto classification | [py]()                                                                                                         | ✅         |
-| webapp      | [Selection App]()                                                                                                                              | ⏱          |
->>>>>>> main
 
 ## :thought_balloon:
 
 **Moodboard:**
 
 -   [Wine & Math - Pudding](https://pudding.cool/2021/03/wine-model/)
--   [The Periodic Table of Wine](https://public.tableau.com/app/profile/flavio.matos/viz/ThePeriodicTableofWine/periodictableauofwineEN)
 
 **_More?_**
 
