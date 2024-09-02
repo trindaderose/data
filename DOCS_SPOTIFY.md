@@ -1,6 +1,6 @@
 ## Spotify map via vinoricco :ghost:
 
-O objetivo desta documentação é fornecer um guia detalhado para a construção de playlists específicas no aplicativo Vinoricco, levando em consideração as características musicais ideais para diferentes ocasiões. A função assign_key(description) mapeia descrições de ambientes para diferentes tipos de playlists, que precisam ser ajustadas com base em variáveis musicais, como bpm, valence, energy, danceability e loudness. Essa função foi construída em uma média de palavras utilizadas para descrever a situação que cada vinho se encaixa melhor.
+Esta documentação fornece um guia detalhado para a criação de playlists no aplicativo vinoricco, considerando características musicais adequadas para diferentes ocasiões. A função assign_key(description) mapeia descrições de ambientes para playlists, ajustadas com base em variáveis como bpm, valence, energy, danceability e loudness. A função é construída com base em palavras-chave que descrevem a melhor situação para cada tipo de vinho.
 
 ![classificação](./images/classification_python.png)
 
@@ -56,7 +56,9 @@ Cada playlist foi projetada com variáveis específicas para atender ao contexto
 
 ### Playlists
 
-Utilizei o `SORT YOUR MUSIC` para categorizar e organizar as playlists de acordo com suas categorias. Algumas músicas se compensam, assim como quando algo sobe, outra desce. Assim como também há músicas que se complementam e não andam sozinhas. Esse é um caso de transições bem executadas. Cada uma, entretanto, possui características como aumento de energia e/ ou valence.
+Utilizei o `SORT YOUR MUSIC` para categorizar e organizar as playlists.
+Algumas músicas compensam umas às outras, como em transições bem executadas.
+Cada playlist tem características que refletem os dados acima.
 
 ![python classification](./images/classification_spotify.png)
 
@@ -84,16 +86,18 @@ Após as playlists proprietárias, as playlists restantes são selecionadas de f
 
 ![vinoricco with playlists](./images/vinoricco_plays.png)
 
-##### Construção das Queries
+### Construção das Queries
 
-As queries para buscar playlists são construídas com base em duas listas de chaves associadas a cada vinho:
+As queries para buscar playlists são baseadas em duas listas de chaves associadas a cada vinho:
+
+##### Chave Principal:
 
 A chave que contém "vinoricco" é sempre destacada para aparecer em primeiro lugar.
 
-Chaves adicionais que são aleatorizadas de acordo com o vinho para adicionar diversidade. A ordem dessas chaves é randomizada a cada requisição, garantindo que diferentes playlists sejam exibidas cada vez que o modal é aberto.
+##### Chaves Adicionais:
+
+Aleatorizadas de acordo com o vinho para garantir diversidade. A ordem é randomizada a cada requisição, garantindo novas playlists a cada abertura do modal.
 
 ### Finals
 
-A curadoria no Vinoricco não apenas busca alinhar a música com a experiência de consumo de vinho, mas também oferece um toque personalizado através de playlists proprietárias. O uso de queries bem estruturadas e um algoritmo eficiente garantem que as melhores opções sejam sempre apresentadas ao usuário e está sendo aprimorado.
-
-A capacidade de randomização e priorização integrada ao sistema permite uma experiência dinâmica e sempre fresca, mantendo o equilíbrio entre consistência e variedade nas recomendações.
+A curadoria do Vinoricco alinha a música à experiência de consumo de vinho, oferecendo um toque personalizado com playlists proprietárias. O uso de queries bem estruturadas e um algoritmo eficiente garante que as melhores opções sejam sempre apresentadas ao usuário. A capacidade de randomização e priorização integrada ao sistema oferece uma experiência dinâmica e equilibrada, mantendo a consistência e a variedade nas recomendações.
