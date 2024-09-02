@@ -6,12 +6,12 @@ Esta documentação fornece um guia detalhado para a criação de playlists no a
 
 ### 1. Outside
 
--   **Bpm**: 80-130/140
+-   **Bpm**: 80-140+
 -   **Valence**: 0.5 - 0.8
 -   **Energy**: 0.6 - 0.9
 -   **Danceability**: 0.5 - 0.8
 -   **Loudness**: -6 ~ 0 dB
--   **Variáveis de Referência**: **Valence** e **Energy**
+-   **Variáveis de Referência Principais**: **Valence**, **Energy** e **Danceability**
 -   **Descrição**: A playlist "Outside" é ideal para atividades ao ar livre. Os valores de `Valence` e `Energy` asseguram que a música seja vibrante e energizante, perfeita para motivar e elevar o ambiente em espaços abertos.
 
 ### 2. Special
@@ -21,8 +21,8 @@ Esta documentação fornece um guia detalhado para a criação de playlists no a
 -   **Energy**: 0.4 - 0.9
 -   **Danceability**: 0.4 - 0.8
 -   **Loudness**: -8 ~ -4 dB
--   **Variáveis de Referência**: **Energy** e **Danceability**
--   **Descrição**: "Special" é uma playlist destinada a ocasiões especiais. Para isso, a `Energy` e a `Danceability` são fundamentais para garantir uma vibração positiva e animada, adequada para celebrações e momentos marcantes.
+-   **Variáveis de Referência Principais**: **Energy**, **Danceability** & **Valence**
+-   **Descrição**: "Special" é uma playlist destinada a ocasiões especiais e íntimas. Para isso, a `Energy`, `Danceability` e `Valence Médio` são fundamentais para garantir uma atmosfera mais intensa e momentos marcantes.
 
 ### 3. Sofisticado
 
@@ -30,8 +30,8 @@ Esta documentação fornece um guia detalhado para a criação de playlists no a
 -   **Valence**: 0.3 - 0.5
 -   **Energy**: 0.3 - 0.6
 -   **Loudness**: -10 ~ -6 dB
--   **Variáveis de Referência**: **Bpm** e **Loudness**
--   **Descrição**: A playlist "Sofisticado" deve refletir uma atmosfera elegante e refinada. O ritmo (`Bpm`) e a presença sonora (`Loudness`) são essenciais para criar uma experiência sonora que seja simultaneamente calma e sofisticada.
+-   **Variáveis de Referência Principais**: **Bpm** e **Loudness**
+-   **Descrição**: A playlist "Sofisticado" deve refletir uma atmosfera elegante e refinada. O ritmo (`Bpm`) e a presença sonora (`Loudness`) equilibrada são essenciais para criar uma experiência sonora que seja simultaneamente calma e sofisticada.
 
 ### 4. Aconchego
 
@@ -40,27 +40,31 @@ Esta documentação fornece um guia detalhado para a criação de playlists no a
 -   **Energy**: 0.2 - 0.5
 -   **Danceability**: 0.3 - 0.5
 -   **Loudness**: -12 ~ -8 dB
--   **Variáveis de Referência**: **Valence** e **Energy**
+-   **Variáveis de Referência Principais**: **Valence** e **Energy**
 -   **Descrição**: A playlist "Aconchego" foca na criação de um ambiente emocionalmente reconfortante e acolhedor. Os valores de `Valence` e `Energy` são cruciais para manter o clima de tranquilidade e suavidade.
 
 ## Resumo das Relações
 
 Cada playlist foi projetada com variáveis específicas para atender ao contexto em que será utilizada. A tabela abaixo resume as variáveis-chave para cada playlist:
 
-| Playlist    | Variáveis Principais          | Descrição                                                 |
-| ----------- | ----------------------------- | --------------------------------------------------------- |
-| Outside     | **+Valence** e **+Energy**    | Música vibrante e energizante para atividades ao ar livre |
-| Special     | **Energy** e **Danceability** | Ocasiões especiais e intensas                             |
-| Sofisticado | **Bpm** e **Loudness**        | Atmosfera elegante e refinada, ideal para jantares        |
-| Aconchego   | **-Valence** e **-Energy**    | Criação de um ambiente emocionalmente reconfortante       |
+| Playlist    | Variáveis Principais                        | Descrição                                                 |
+| ----------- | ------------------------------------------- | --------------------------------------------------------- |
+| Outside     | **+Valence**, **+Energy**, **Danceability** | Música vibrante e energizante para atividades ao ar livre |
+| Special     | **Energy**, **Danceability**, **Valence**   | Ocasiões especiais e intensas                             |
+| Sofisticado | **Bpm** e **Loudness**                      | Atmosfera elegante e refinada, ideal para jantares        |
+| Aconchego   | **-Valence** e **-Energy**                  | Criação de um ambiente emocionalmente reconfortante       |
 
 ### Playlists
 
-Utilizei o `SORT YOUR MUSIC` para categorizar e organizar as playlists.
+Utilizei o [`SORT YOUR MUSIC`](http://sortyourmusic.playlistmachinery.com/index.html) para categorizar e organizar as playlists.
 Algumas músicas compensam umas às outras, como em transições bem executadas.
 Cada playlist tem características que refletem os dados acima.
 
 ![python classification](./images/classification_spotify.png)
+
+### Song attributes
+
+![song attributes](song_attributes.png)
 
 ### special | vinoricco
 
