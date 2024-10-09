@@ -6,7 +6,7 @@ a **data project** with [@valliero](https://github.com/valliero)
 
 ![screenshot](./thumbnail.png)
 
-## main
+## main index
 
 | `asset`      | `link`                                                                                                                                        | `progress` |
 | :----------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
